@@ -1,4 +1,4 @@
 # harshchandel-demo
 This is my first git repository
 <br>
-Author -- Harsh Chandel
+Author -- Harsh Chandel (oriental college )
